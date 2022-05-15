@@ -1,7 +1,2 @@
-### 添加的第一个readme文件
-
-* hello
-* hi
-* 第二个版本
-* 第三个版本
-* 加入暂存区的撤销修改
+# Hello_World
+Just another repository
